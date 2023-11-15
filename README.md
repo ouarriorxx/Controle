@@ -27,14 +27,14 @@ Copy code
 mvn spring-boot:run
 L'application sera lancée sur http://localhost:8080.
 
-Accéder à Swagger UI
+## Accéder à Swagger UI
 Une fois l'application lancée, accédez à Swagger UI pour explorer et tester les API :
 
-Swagger UI
+## Swagger UI
 Configuration Swagger
 La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez personnaliser la documentation Swagger en modifiant cette classe selon vos besoins.
 
-Maven Commands
+## Maven Commands
 Package du projet: mvn clean package
 Exécution des tests: mvn test
 Contribution
@@ -66,14 +66,14 @@ Copy code
 mvn spring-boot:run
 L'application sera lancée sur http://localhost:8080.
 
-Accéder à Swagger UI
+## Accéder à Swagger UI
 Une fois l'application lancée, accédez à Swagger UI pour explorer et tester les API :
 
-Swagger UI
+## Swagger UI
 Configuration Swagger
 La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez personnaliser la documentation Swagger en modifiant cette classe selon vos besoins.
 
-Maven Commands
+## Maven Commands
 Package du projet: mvn clean package
 Exécution des tests: mvn test
 Contribution
