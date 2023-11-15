@@ -14,11 +14,11 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine avant 
 
 1. Clonez le dépôt sur votre machine locale :
 
-```bash
+bash
 git clone https://github.com/votre-utilisateur/projet-springboot-swagger-maven.git
 Accédez au répertoire du projet :
 
-```bash
+bash
 Copy code
 cd projet-springboot-swagger-maven
 Exécutez l'application à l'aide de Maven :
@@ -28,13 +28,16 @@ mvn spring-boot:run
 L'application sera lancée sur http://localhost:8080.
 
 ## Accéder à Swagger UI
+
 Une fois l'application lancée, accédez à Swagger UI pour explorer et tester les API :
 
 ## Swagger UI
+
 Configuration Swagger
 La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez personnaliser la documentation Swagger en modifiant cette classe selon vos besoins.
 
 ## Maven Commands
+
 Package du projet: mvn clean package
 Exécution des tests: mvn test
 Contribution
@@ -52,9 +55,9 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine avant 
 
 ## Comment exécuter le projet
 
-1. Clonez le dépôt sur votre machine locale :
+Clonez le dépôt sur votre machine locale :
 
-```bash
+bash
 git clone https://github.com/votre-utilisateur/projet-springboot-swagger-maven.git
 Accédez au répertoire du projet :
 bash
@@ -67,9 +70,11 @@ mvn spring-boot:run
 L'application sera lancée sur http://localhost:8080.
 
 ## Accéder à Swagger UI
+
 Une fois l'application lancée, accédez à Swagger UI pour explorer et tester les API :
 
 ## Swagger UI
+
 Configuration Swagger
 La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez personnaliser la documentation Swagger en modifiant cette classe selon vos besoins.
 
